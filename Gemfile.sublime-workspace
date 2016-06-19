@@ -1,0 +1,542 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"l",
+				"label	Tag"
+			],
+			[
+				"op",
+				"option	Tag"
+			],
+			[
+				"se",
+				"select	Tag"
+			],
+			[
+				"h",
+				"h2	Tag"
+			],
+			[
+				"le",
+				"legend	Tag"
+			],
+			[
+				"in",
+				"input	Tag"
+			],
+			[
+				"d",
+				"div	Tag"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"min-",
+				"min-width"
+			],
+			[
+				"border-top",
+				"border-top"
+			],
+			[
+				"margin",
+				"margin"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"mar",
+				"margin-top"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"te",
+				"text-decoration"
+			],
+			[
+				"border-bottom",
+				"border-bottom"
+			],
+			[
+				"backgroun",
+				"background-color"
+			],
+			[
+				"fo",
+				"font-family"
+			],
+			[
+				"tr",
+				"transparent"
+			],
+			[
+				"border-bo",
+				"border-bottom"
+			],
+			[
+				"border-",
+				"border-width"
+			],
+			[
+				"border-c",
+				"border-color"
+			],
+			[
+				"ma",
+				"margin"
+			],
+			[
+				"list",
+				"list-style-type"
+			],
+			[
+				"background",
+				"background-color"
+			],
+			[
+				"width",
+				"width"
+			],
+			[
+				"border-bottom-radius",
+				"border-bottom-left-radius"
+			],
+			[
+				"border-b",
+				"border-bottom-width"
+			],
+			[
+				"b",
+				"black"
+			],
+			[
+				"padd",
+				"padding"
+			],
+			[
+				"tex",
+				"text-decoration"
+			],
+			[
+				"hea",
+				"header	Tag"
+			],
+			[
+				"fon",
+				"font-style"
+			],
+			[
+				"margin-",
+				"margin-left"
+			],
+			[
+				"opa",
+				"opacity"
+			],
+			[
+				"min",
+				"min-width"
+			],
+			[
+				"paddi",
+				"padding"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"lis",
+				"list-style-type"
+			],
+			[
+				"backgr",
+				"background-color"
+			],
+			[
+				"inline",
+				"inline"
+			],
+			[
+				"inl",
+				"inline-block"
+			],
+			[
+				"t",
+				"text-indent"
+			],
+			[
+				"paddin",
+				"padding"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"max-",
+				"max-width"
+			],
+			[
+				"li",
+				"list-style-type"
+			],
+			[
+				"styp",
+				"list-style-type"
+			],
+			[
+				"background-",
+				"background-color"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"head",
+				"header	Tag"
+			],
+			[
+				"border-t",
+				"border-top-style"
+			],
+			[
+				"background-i",
+				"background-size"
+			],
+			[
+				"border",
+				"border-top-width"
+			],
+			[
+				"f",
+				"float"
+			],
+			[
+				"m",
+				"margin"
+			],
+			[
+				"friend",
+				"friendNumber"
+			],
+			[
+				"sc",
+				"script	Tag"
+			],
+			[
+				"scri",
+				"scripts"
+			],
+			[
+				"alert",
+				"alertRandom"
+			],
+			[
+				"random",
+				"randomNumber"
+			],
+			[
+				"bac",
+				"background-repeat"
+			],
+			[
+				"borde",
+				"border-style"
+			],
+			[
+				"rgb",
+				"rgba()"
+			],
+			[
+				"decima",
+				"decimal-leading-zero"
+			],
+			[
+				"font-s",
+				"font-size"
+			],
+			[
+				"font-",
+				"font-size"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"padding",
+				"padding"
+			],
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"p",
+				"p	Tag"
+			],
+			[
+				"i",
+				"iframe	Tag"
+			],
+			[
+				"e",
+				"embed"
+			],
+			[
+				"o",
+				"object	Tag"
+			],
+			[
+				"al",
+				"alt	Attr"
+			],
+			[
+				"for",
+				"form	Tag"
+			],
+			[
+				"bor",
+				"border-right-color"
+			],
+			[
+				"mi",
+				"min-width"
+			],
+			[
+				"border-r",
+				"border-radius"
+			],
+			[
+				"u",
+				"ul	Tag"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/Izzy/Downloads/Web/index.html",
+		"/Volumes/MYSTUFF/TRUCK TEST/3.xml",
+		"/Volumes/MYSTUFF/TRUCK TEST/2.xml",
+		"/Volumes/MYSTUFF/TRUCK TEST/1.xml",
+		"/Users/Izzy/Desktop/mypage.html",
+		"/opt/X11/include/X11/Xmu/Atoms.h",
+		"/opt/X11/share/man/man3/XCreateIC.3",
+		"/Users/Izzy/Desktop/web/index.html",
+		"/Users/Izzy/Desktop/scripts.js",
+		"/Users/Izzy/Desktop/html_codes/html.html",
+		"/Users/Izzy/Desktop/web/galleries.css",
+		"/Users/Izzy/Desktop/web/galleries.html",
+		"/Users/Izzy/Desktop/html_codes/html12.css",
+		"/Users/Izzy/Desktop/html_codes/html2.html",
+		"/Users/Izzy/Desktop/web/style.css",
+		"/Users/Izzy/Desktop/web/library.css",
+		"/Users/Izzy/Desktop/web/library.html",
+		"/Users/Izzy/Desktop/web/css/style.css",
+		"/Users/Izzy/Desktop/web/scripts.js",
+		"/Applications/RNDDock/Modules/Styles/global.css",
+		"/Users/Izzy/Desktop/index.html",
+		"/Users/Izzy/Desktop/css/style.css",
+		"/Users/Izzy/Desktop/web/css/Wycked.css",
+		"/Users/Izzy/Desktop/web/WyckedAir.html",
+		"/Users/Izzy/Desktop/css/NP.css",
+		"/Users/Izzy/Desktop/NewPro.html",
+		"/Users/Izzy/Desktop/web/css/NP.css",
+		"/Users/Izzy/Desktop/web/NewPro.html",
+		"/Users/Izzy/Desktop/MyProject/NewPro.html",
+		"/Users/Izzy/Desktop/MyProject/scripts.js",
+		"/Users/Izzy/Desktop/MyProject/Npro.css",
+		"/Users/Izzy/Desktop/MyProject/untitled.css",
+		"/Users/Izzy/Desktop/index.js",
+		"/Users/Izzy/Desktop/html_codes/style.css",
+		"/Users/Izzy/Desktop/html codes/html2.html",
+		"/Users/Izzy/Desktop/html codes/html.html",
+		"/Users/Izzy/Desktop/html.html",
+		"/Users/Izzy/Desktop/html2.html",
+		"/Users/Izzy/Desktop/Web/css/main.css",
+		"/Users/Izzy/Desktop/Web/index.html",
+		"/Users/Izzy/Desktop/html",
+		"/Users/Izzy/Downloads/websitewaters-island01-stage04-code/css/grid.css",
+		"/Users/Izzy/Desktop/Web/css/styles.css"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"{\n",
+			"#nav",
+			";\n",
+			"\n	padding: 2px 5px;\n",
+			";\n",
+			"{\n",
+			"%;\n",
+			";\n",
+			"980px",
+			"none",
+			"decoration",
+			"    \n",
+			";\n",
+			">\n",
+			"selected"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "Gemfile.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
